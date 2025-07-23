@@ -1,2 +1,2 @@
 # zomato-clustering-project
-“Zomato clustering and sentiment analysis project”
+This project analyzes customer reviews and restaurant data from Zomato using exploratory data analysis, feature scaling, and clustering techniques. It helps uncover patterns in customer sentiment, cost vs. review behavior, and clusters restaurants based on key features like review length and cost. Visualizations and insights are generated to support business decisions for both customers and the Zomato platform.
